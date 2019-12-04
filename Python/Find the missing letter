@@ -1,3 +1,4 @@
+// 6 kyu
 def find_missing_letter(chars):
     Alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
     Begin = chars[0]
