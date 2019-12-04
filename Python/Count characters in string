@@ -1,3 +1,4 @@
+// 6 kyu
 def count(string):
     # The function code should be here
     res = {}
