@@ -1,3 +1,4 @@
+// 6 kyu
 def unique_in_order(iterable):
     res=[]
     last=''
