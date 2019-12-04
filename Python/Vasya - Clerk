@@ -1,3 +1,4 @@
+// 6 kyu
 def tickets(people):     #people is a list like [25,25,50]
     banknote25=0
     banknote50=0
