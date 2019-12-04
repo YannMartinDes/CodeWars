@@ -1,3 +1,4 @@
+// 7 kyu
 def validate_pin(pin):
     for i in pin:
         if not i.isdigit():
