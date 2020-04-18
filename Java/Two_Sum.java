@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//6 kuy
 public class TwoSum
 {
     public static int[] twoSum(int[] numbers, int target)
